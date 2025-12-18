@@ -34,7 +34,7 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: TranNam/it4409-sample:staging
+          tags: trannam21/it4409-sample:staging
 
   deploy:
     name: Deploy to Server
